@@ -53,7 +53,7 @@ _____    ____ _____ _______   ____ |  |__ |__| _______/  |_  _____  |  | |  | |_
 (____  /___|  (____  /__|    \___  >___|  /__/____  > |__|   (____  /____/____/__|\___  >____  >
      \/     \/     \/            \/     \/        \/              \/                  \/     \/ 
                                                                            
- BY SKS  \n\n https://github.com/stormshadow07                                                                                                                          """
+  \n\n By Didi                                                                                                                          """
 def color(string, color=None):
     attr = []
     attr.append('1')
@@ -113,7 +113,7 @@ if __name__ == '__main__':
 		print color(ngrok(),"green")
 		con=raw_input(color("[?] Press Enter to Continue ..."))
 	os.system("clear")	
-	print color(" Checking Services Status Required ","blue")
+	print color(" Please wait !! anyways im didi ","blue")
 	os.system("service apache2 start")
 	os.system("beef-xss")
 	os.system("clear")
